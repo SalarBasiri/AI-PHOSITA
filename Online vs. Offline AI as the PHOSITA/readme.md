@@ -20,6 +20,18 @@ The models were cross-examined as "advanced engineering students" through a peda
 * Highly localized, DIY-level fabrication limits (3D-printed polymers, custom 2D Delphi rib calculations, and aluminum skin-depth boundaries).
 
 ---
+```
+## 🗂️ Repository Structure
+
+```text
+assets/
+└── transcripts/
+    ├── 01_pedagogical_prompt_matrix.md  # The exact guiding constraints used
+    ├── 02_online_gemini_transcript.md   # Raw outputs from Gemini 3.5 Flash & 3.1 Pro
+    └── 03_offline_gemma_transcript.md   # Raw outputs from local Gemma-4-26B (Q8_0)
+
+```
+
 
 ## 📑 How to Reference & Cite
 
